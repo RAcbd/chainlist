@@ -23,7 +23,7 @@ export const Header = () => {
       flexDirection={{ base: "column", md: "row" }}
       justifyContent="space-between"
     >
-      <Heading>Chainlist</Heading>
+      <Heading>Pitaka Chainlist</Heading>
       <Search />
       <Flex>
         <Filters />
